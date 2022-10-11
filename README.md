@@ -31,5 +31,4 @@ Today we gonna build messing/chat app #ui using #flutter that runs both Android 
 ![Preview](/gif.gif)
 ![Preview](/ui_kit.gif)
 
-![App UI](/ui.png)
-![App UI](/chat_kit.png)
+
